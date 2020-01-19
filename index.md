@@ -6,7 +6,6 @@
 ## Profile
 - uekichi
 - 愛知県
-- 勉強中
 
 # Skills
 使ったことや興味のある言語、ツール、OSなど
@@ -14,7 +13,6 @@
 - Languages（JavaScript, Ruby, Python, Scala）
 - Engine,Frameworks (Node.js, Express)
 - Tool,MiddleWare（Git, PostgreSQL）
-- 資格、免許なし
 
 # Works
 アピールできる活動内容を書きましょう。
