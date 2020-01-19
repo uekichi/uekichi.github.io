@@ -15,7 +15,6 @@
 - Tool,MiddleWare（Git, PostgreSQL）
 
 # Works
-アピールできる活動内容を書きましょう。
 - [GitHub](https://github.com/uekichi)
 - [Qiita](https://qiita.com/uekichi)
 - 作った作品
@@ -26,12 +25,12 @@
   <iframe src="https://www.openprocessing.org/sketch/825179/embed/" width="400" height="300"></iframe>
 
 # Contact
-連絡先を書きましょう。
 - [Twitter](https://twitter.com/uekichi_game)
 
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/uekichi_game?ref_src=twsrc%5Etfw">Tweets by uekichi_game</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # History
-学歴、職歴、アルバイト、インターン経験など。
 - 2018年 N予備校
 
 
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/uekichi_game?ref_src=twsrc%5Etfw">Tweets by uekichi_game</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
