@@ -31,3 +31,5 @@
 # History
 学歴、職歴、アルバイト、インターン経験など。
 - 2018年 N予備校
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm22976755/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm22976755">はらぺこ日和</a></noscript>
