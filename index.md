@@ -33,6 +33,5 @@
 学歴、職歴、アルバイト、インターン経験など。
 - 2018年 N予備校
 
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm22976755/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm22976755">はらぺこ日和</a></noscript>
 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/uekichi_game?ref_src=twsrc%5Etfw">Tweets by uekichi_game</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
